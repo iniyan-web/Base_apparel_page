@@ -183,7 +183,7 @@ form {
   }
 
   .grid-item3 img {
-    content: url(hero-mobile.jpg);
+    content: url("hero-mobile.jpg");
     width: 100%;
     object-fit: contain;
   }
